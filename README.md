@@ -36,4 +36,6 @@ trip with the following route:
 *   city 4 (Midwest) to city 5 (Southeast)
 
 Using the concept of the shortest path, describe the path taken and the number of paths taken.
-<p>Requirement 5 - Realizar um estudo sobre o Coeficiente de Clustering considerando a Rede da Malha Área Nacional e sua sub-redes (Norte,Nordeste,Centro-Oeste,Sudeste e Sul).</p>
+<p>Requirement 5 - Conduct a study on the Clustering Coefficient considering the
+National Air Mesh Network, as well as the aerial subnets of
+each Region (North, Northeast, Midwest, South and Southeast).</p>
