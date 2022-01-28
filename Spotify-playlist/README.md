@@ -3,7 +3,7 @@ Ao subir o arquivo no Google Collab, lembre-se de executar as duas primeiras cé
 
 Criado por [Brenda Alexandra](github.com/breudes) e Paulo Vanzolini
 
-##Arquivos
+## Arquivos
 * playlists-gephi.graphml - Grafo gerado na ferramenta Gephi
 * spotify_playlists.ipynb - Código feito para a análise
 * graphs.zip - Imagens geradas
@@ -13,7 +13,7 @@ As you upload the file to your Google Collab, remember to execute the first two 
 
 Created by [Brenda Alexandra](github.com/breudes) and Paulo Vanzolini
 
-##Files
+## Files
 * playlists-gephi.graphml - Gephi's graph
 * spotify_playlists.ipynb - Code done for the analysis
 * graphs.zip - Generated images
