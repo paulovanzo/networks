@@ -17,3 +17,5 @@ Created by [Brenda Alexandra](github.com/breudes) and Paulo Vanzolini
 * playlists-gephi.graphml - Gephi's graph
 * spotify_playlists.ipynb - Code done for the analysis
 * graphs.zip - Generated images
+
+Link to [medium](https://medium.com/@paulovanzolinimouradasilva/an%C3%A1lise-de-rede-playlists-do-spotify-b2806ccd8ea5)
